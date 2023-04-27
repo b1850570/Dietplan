@@ -44,7 +44,7 @@
         android:layout_width="87dp"
         android:layout_height="48dp"
         android:layout_marginStart="148dp"
-        android:layout_marginTop="336dp"
+        android:layout_marginTop="344dp"
         android:text="Fats"
         android:textColor="@color/black"
         app:layout_constraintStart_toStartOf="parent"
