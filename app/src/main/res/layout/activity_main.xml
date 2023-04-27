@@ -6,56 +6,56 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-    <TextView
+    <Button
         android:id="@+id/textView"
-        android:layout_width="88dp"
-        android:layout_height="35dp"
-        android:layout_marginStart="192dp"
-        android:layout_marginTop="208dp"
-        android:text="Meals"
+        android:layout_width="128dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="156dp"
+        android:layout_marginTop="168dp"
+        android:text="Meal LIst"
         android:textColor="@color/black"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
-    <TextView
+    <Button
         android:id="@+id/textView1"
-        android:layout_width="85dp"
-        android:layout_height="32dp"
-        android:layout_marginStart="192dp"
-        android:layout_marginTop="276dp"
+        android:layout_width="143dp"
+        android:layout_height="49dp"
+        android:layout_marginStart="164dp"
+        android:layout_marginTop="224dp"
         android:text="Calories"
         android:textColor="@color/black"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
-    <TextView
+    <Button
         android:id="@+id/textView2"
-        android:layout_width="107dp"
-        android:layout_height="35dp"
-        android:layout_marginStart="192dp"
-        android:layout_marginTop="340dp"
+        android:layout_width="147dp"
+        android:layout_height="49dp"
+        android:layout_marginStart="164dp"
+        android:layout_marginTop="292dp"
         android:text="Carbohydrates"
         android:textColor="@color/black"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
-    <TextView
+    <Button
         android:id="@+id/textView3"
-        android:layout_width="77dp"
-        android:layout_height="39dp"
+        android:layout_width="87dp"
+        android:layout_height="46dp"
         android:layout_marginStart="192dp"
-        android:layout_marginTop="404dp"
+        android:layout_marginTop="356dp"
         android:text="Fats"
         android:textColor="@color/black"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
-    <TextView
+    <Button
         android:id="@+id/textView4"
-        android:layout_width="78dp"
-        android:layout_height="32dp"
-        android:layout_marginStart="192dp"
-        android:layout_marginTop="476dp"
+        android:layout_width="110dp"
+        android:layout_height="38dp"
+        android:layout_marginStart="196dp"
+        android:layout_marginTop="424dp"
         android:text="Proteins"
         android:textColor="@color/black"
         app:layout_constraintStart_toStartOf="parent"
