@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Dietplan</string>
+    <string name="meal_list">Meal LIst</string>
+    <string name="calories">Calories</string>
+    <string name="carbohydrates">Carbohydrates</string>
+    <string name="fats">Fats</string>
+    <string name="proteins">Proteins</string>
 </resources>
